@@ -13,56 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 - Journal/Journal 2024.md",
+                "file": "Zettelkasten/Fleeting Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a1b58c1ec54863f",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__term",
-              "state": {}
-            }
-          },
-          {
-            "id": "e11dc338db99ba07",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__daynote",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c27d5976d2d05a3",
+            "id": "cd86d8f4efe25458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 - Journal/2024-01-03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7beaeba2351993f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Katalytikos.md",
+                "file": "Library/Library.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -128,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Katalytikos.md",
+                "file": "Zettelkasten/Fleeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Katalytikos.md",
+                "file": "Zettelkasten/Fleeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Katalytikos.md"
+                "file": "Zettelkasten/Fleeting Notes.md"
               }
             }
           },
@@ -199,21 +170,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7beaeba2351993f0",
+  "active": "ee78d0f1394e1990",
   "lastOpenFiles": [
+    "Zettelkasten/Literature Notes.md",
+    "Zettelkasten/Permanent Notes.md",
+    "Zettelkasten/Fleeting Notes.md",
+    "2024 - Journal/Journal 2024.md",
     "Library/Library.md",
     "Katalytikos.md",
-    "Zettelkasten/Permanent Notes.md",
-    "Zettelkasten/Literature Notes.md",
-    "Zettelkasten/Fleeting Notes.md",
-    "Library/Scrum.md",
-    "Templates/parent.template.md",
-    "Templates/daynote.template.md",
-    "Templates/term.template.md",
     "2024 - Journal/2024-01-03.md",
-    "2024 - Journal/Journal 2024.md",
     "Classes/term.md",
     "Classes/daynote.md",
+    "Library/Scrum.md",
+    "Templates/term.template.md",
+    "Templates/parent.template.md",
+    "Templates/daynote.template.md",
     "2024 - Journal/Week 1/2024-01-03.md",
     "2024 - Journal/Week 1",
     "2024 - Journal",

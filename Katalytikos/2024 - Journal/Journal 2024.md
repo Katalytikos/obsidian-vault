@@ -1,5 +1,7 @@
 ---
-fileClass: term
-parent: 
-topic: 
+parent: "[[Library]]"
 ---
+```dataview
+TABLE tags as Tag, length(file.inlinks) as Links
+FROM [[]] 
+```

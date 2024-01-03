@@ -4,7 +4,8 @@
   "palette": 8,
   "seed": 0,
   "knownTags": {
-    "scrum": 1
+    "scrum": 1,
+    "zettelkasten": 2
   },
   "_version": 2
 }

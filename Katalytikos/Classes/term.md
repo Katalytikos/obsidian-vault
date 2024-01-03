@@ -1,10 +1,5 @@
 ---
 fields:
-  - name: topic
-    type: Input
-    options: {}
-    path: ""
-    id: VpPcIs
   - name: parent
     type: File
     options: {}
