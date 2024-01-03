@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/term.md",
+                "file": "2024 - Journal/2024-01-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7beaeba2351993f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katalytikos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/term.md",
+                "file": "Katalytikos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/term.md",
+                "file": "Katalytikos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/term.md"
+                "file": "Katalytikos.md"
               }
             }
           },
@@ -186,19 +199,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c27d5976d2d05a3",
+  "active": "7beaeba2351993f0",
   "lastOpenFiles": [
     "Library/Library.md",
-    "2024 - Journal/Journal 2024.md",
-    "Templates/term.md",
-    "Classes/term.md",
-    "2024 - Journal/2024-01-03.md",
+    "Katalytikos.md",
+    "Zettelkasten/Permanent Notes.md",
+    "Zettelkasten/Literature Notes.md",
+    "Zettelkasten/Fleeting Notes.md",
+    "Library/Scrum.md",
+    "Templates/parent.template.md",
     "Templates/daynote.template.md",
+    "Templates/term.template.md",
+    "2024 - Journal/2024-01-03.md",
+    "2024 - Journal/Journal 2024.md",
+    "Classes/term.md",
     "Classes/daynote.md",
     "2024 - Journal/Week 1/2024-01-03.md",
     "2024 - Journal/Week 1",
     "2024 - Journal",
-    "Untitled.md",
     "Zettelkasten/Literature Notes",
     "Zettelkasten/Permanent Notes",
     "Zettelkasten",
